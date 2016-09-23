@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="circleColor">#0a0909</color>
+    <color name="bigDegreeColor">#FF0D0C0C</color>
+    <color name="smallDegreeColor">#FF2E2C2C</color>
+    <color name="hourColor">#FFED4242</color>
+    <color name="minuteColor">#FFC0CA33</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+</resources>
